@@ -1,0 +1,4 @@
+﻿  connection.c
+C:\Users\oo\source\repos\通讯录\通讯录\connection.h(1,1): warning C4828: 文件包含在偏移 0x51f 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\oo\source\repos\通讯录\通讯录\connection.c(213): warning C4715: “find”: 不是所有的控件路径都返回值
+  通讯录.vcxproj -> C:\Users\oo\source\repos\通讯录\x64\Debug\通讯录.exe
