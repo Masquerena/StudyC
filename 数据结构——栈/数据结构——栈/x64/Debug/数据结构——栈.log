@@ -1,0 +1,12 @@
+﻿  Stack.c
+C:\Users\oo\source\repos\数据结构——栈\数据结构——栈\Stack.h(27,6): error C2061: 语法错误: 标识符“StackEmpty”
+C:\Users\oo\source\repos\数据结构——栈\数据结构——栈\Stack.h(27,6): error C2059: 语法错误:“;”
+C:\Users\oo\source\repos\数据结构——栈\数据结构——栈\Stack.h(27,22): error C2059: 语法错误:“<parameter-list>”
+C:\Users\oo\source\repos\数据结构——栈\数据结构——栈\Stack.c(64,1): fatal error C1057: 宏扩展中遇到意外的文件结束
+  STList.c
+C:\Users\oo\source\repos\数据结构——栈\数据结构——栈\Stack.h(27,6): error C2061: 语法错误: 标识符“StackEmpty”
+C:\Users\oo\source\repos\数据结构——栈\数据结构——栈\Stack.h(27,6): error C2059: 语法错误:“;”
+C:\Users\oo\source\repos\数据结构——栈\数据结构——栈\Stack.h(27,22): error C2059: 语法错误:“<parameter-list>”
+C:\Users\oo\source\repos\数据结构——栈\数据结构——栈\STList.c(24,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\oo\source\repos\数据结构——栈\数据结构——栈\STList.c(24,9): message : 请考虑在格式字符串中使用“%zd”
+  正在生成代码...
