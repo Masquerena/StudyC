@@ -1,0 +1,5 @@
+﻿  SLTest.c
+C:\Users\oo\source\repos\无头单链表\无头单链表\SListNode.h(1,1): warning C4828: 文件包含在偏移 0x3a2 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\oo\source\repos\无头单链表\无头单链表\SLTest.c(48,20): warning C4047: “函数”:“SListNode *”与“SListNode **”的间接级别不同
+C:\Users\oo\source\repos\无头单链表\无头单链表\SLTest.c(48,15): warning C4024: “SListDistory”: 形参和实参 1 的类型不同
+  无头单链表.vcxproj -> C:\Users\oo\source\repos\无头单链表\x64\Debug\无头单链表.exe
